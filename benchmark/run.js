@@ -49,10 +49,12 @@ function random(max) {
   return Math.floor(Math.random() * max);
 }
 
-function randomDecimal(max) {
+function randomDecimal(max, type) {
   const cents = random(99);
   const dollars = random(max);
-  return Decimal128(`${dollars}.${cents}`);
+  return type === 'mongoose'
+    ? new mongoose.Types.Decimal128(`${dollars}.${cents}`)
+    : new Decimal128(`${dollars}.${cents}`);
 }
 
 function randomURL() {
@@ -75,7 +77,7 @@ function randomDocument(source, type) {
       { score: random(10) },
       { score: random(10) },
     ],
-    salary: randomDecimal(100000),
+    salary: randomDecimal(100000, type),
     scores: [random(100), random(100)],
     ...(source && { source }),
     url: randomURL(),

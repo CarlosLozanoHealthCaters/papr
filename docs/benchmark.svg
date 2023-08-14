@@ -34,26 +34,38 @@
         <line x1="0" x2="100" y1="60" y2="60" stroke-dasharray="0.2 0.1" class="tick" />
         <text x="4" y="60" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">0</text>
       
-        <line x1="0" x2="100" y1="52.05697794487543" y2="52.05697794487543" stroke-dasharray="0.2 0.1" class="tick" />
-        <text x="4" y="52.05697794487543" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">100</text>
+        <line x1="0" x2="100" y1="54.71319058947925" y2="54.71319058947925" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="54.71319058947925" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">50</text>
       
-        <line x1="0" x2="100" y1="44.113955889750855" y2="44.113955889750855" stroke-dasharray="0.2 0.1" class="tick" />
-        <text x="4" y="44.113955889750855" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">200</text>
+        <line x1="0" x2="100" y1="49.4263811789585" y2="49.4263811789585" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="49.4263811789585" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">100</text>
       
-        <line x1="0" x2="100" y1="36.17093383462628" y2="36.17093383462628" stroke-dasharray="0.2 0.1" class="tick" />
-        <text x="4" y="36.17093383462628" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">300</text>
+        <line x1="0" x2="100" y1="44.13957176843775" y2="44.13957176843775" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="44.13957176843775" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">150</text>
       
-        <line x1="0" x2="100" y1="28.22791177950171" y2="28.22791177950171" stroke-dasharray="0.2 0.1" class="tick" />
-        <text x="4" y="28.22791177950171" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">400</text>
+        <line x1="0" x2="100" y1="38.852762357917" y2="38.852762357917" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="38.852762357917" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">200</text>
       
-        <line x1="0" x2="100" y1="20.284889724377138" y2="20.284889724377138" stroke-dasharray="0.2 0.1" class="tick" />
-        <text x="4" y="20.284889724377138" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">500</text>
+        <line x1="0" x2="100" y1="33.56595294739625" y2="33.56595294739625" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="33.56595294739625" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">250</text>
       
-        <line x1="0" x2="100" y1="12.341867669252558" y2="12.341867669252558" stroke-dasharray="0.2 0.1" class="tick" />
-        <text x="4" y="12.341867669252558" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">600</text>
+        <line x1="0" x2="100" y1="28.279143536875495" y2="28.279143536875495" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="28.279143536875495" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">300</text>
       
-        <line x1="0" x2="100" y1="4.3988456141279855" y2="4.3988456141279855" stroke-dasharray="0.2 0.1" class="tick" />
-        <text x="4" y="4.3988456141279855" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">700</text>
+        <line x1="0" x2="100" y1="22.99233412635475" y2="22.99233412635475" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="22.99233412635475" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">350</text>
+      
+        <line x1="0" x2="100" y1="17.705524715833995" y2="17.705524715833995" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="17.705524715833995" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">400</text>
+      
+        <line x1="0" x2="100" y1="12.418715305313249" y2="12.418715305313249" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="12.418715305313249" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">450</text>
+      
+        <line x1="0" x2="100" y1="7.131905894792496" y2="7.131905894792496" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="7.131905894792496" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">500</text>
+      
+        <line x1="0" x2="100" y1="1.8450964842717497" y2="1.8450964842717497" stroke-dasharray="0.2 0.1" class="tick" />
+        <text x="4" y="1.8450964842717497" dy="-0.3" text-anchor="end" font-size="1.4" class="tick-label">550</text>
       </g>
         <g transform="scale(0.9, 1) translate(10, 0)">
         <text class="tick-label" x="15.517241379310349" y="60" dy="-1.3" text-anchor="middle" font-size="1.4">insert</text>
@@ -62,7 +74,7 @@
       
         <text class="tick-label" x="84.48275862068968" y="60" dy="-1.3" text-anchor="middle" font-size="1.4">update</text>
       </g>
-        <g transform="scale(0.9) translate(10, 2)"><rect class="bar-1" x="1.724137931034484" y="0.5218565490216847" width="8.561236623067778" height="59.478143450978315"/><rect class="bar-2" x="11.23662306777646" y="3.5179644682146716" width="8.561236623067778" height="56.48203553178533"/><rect class="bar-3" x="20.749108204518436" y="17.884508459318482" width="8.561236623067778" height="42.11549154068152"/><rect class="bar-1" x="36.20689655172414" y="12.435595329503023" width="8.561236623067778" height="47.56440467049698"/><rect class="bar-2" x="45.719381688466115" y="13.19097672694538" width="8.561236623067778" height="46.80902327305462"/><rect class="bar-3" x="55.231866825208094" y="21.995816675050968" width="8.561236623067778" height="38.00418332494903"/><rect class="bar-1" x="70.68965517241381" y="0" width="8.561236623067778" height="60"/><rect class="bar-2" x="80.20214030915578" y="4.679234292673883" width="8.561236623067778" height="55.32076570732612"/><rect class="bar-3" x="89.71462544589775" y="12.478487648600705" width="8.561236623067778" height="47.521512351399295"/></g>
+        <g transform="scale(0.9) translate(10, 2)"><rect class="bar-1" x="1.724137931034484" y="42.843246100978064" width="8.561236623067778" height="17.15675389902194"/><rect class="bar-2" x="11.23662306777646" y="43.769495109701296" width="8.561236623067778" height="16.230504890298704"/><rect class="bar-3" x="20.749108204518436" y="46.44779275707111" width="8.561236623067778" height="13.552207242928889"/><rect class="bar-1" x="36.20689655172414" y="7.4829500396510795" width="8.561236623067778" height="52.51704996034892"/><rect class="bar-2" x="45.719381688466115" y="0" width="8.561236623067778" height="60"/><rect class="bar-3" x="55.231866825208094" y="19.83399418450965" width="8.561236623067778" height="40.16600581549035"/><rect class="bar-1" x="70.68965517241381" y="41.567010309278345" width="8.561236623067778" height="18.43298969072165"/><rect class="bar-2" x="80.20214030915578" y="42.8770816812054" width="8.561236623067778" height="17.122918318794607"/><rect class="bar-3" x="89.71462544589775" y="44.48638646576791" width="8.561236623067778" height="15.513613534232089"/></g>
       </g>
       <g transform="translate(90, 2)">
     <rect class="bar-1" x="1" y="0" width="2" height="2"/>
